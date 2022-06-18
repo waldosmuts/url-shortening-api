@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/waldosmuts/rock-paper-scissors)
-- Live Site URL: [Live Preview](https://rock-paper-scissors-fem.netlify.app/)
+- Solution URL: [GitHub Repo](https://github.com/waldosmuts/url-shortening-api)
+- Live Site URL: [Live Preview](https://shortlyfi.netlify.app/)
 
 ## My process
 
@@ -45,6 +45,7 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS Library
 - [Tailwind](https://tailwindcss.com/) - CSS Framework
+- [Shrtcode](https://shrtco.de/docs/) - API
 
 ### Continued development
 
